@@ -1,0 +1,15 @@
+C:\Users\Ернар\source\repos\TextRedactor\TextRedactor\bin\Debug\TextRedactor.exe.config
+C:\Users\Ернар\source\repos\TextRedactor\TextRedactor\bin\Debug\TextRedactor.exe
+C:\Users\Ернар\source\repos\TextRedactor\TextRedactor\bin\Debug\TextRedactor.pdb
+C:\Users\Ернар\source\repos\TextRedactor\TextRedactor\obj\Debug\TextRedactor.csprojResolveAssemblyReference.cache
+C:\Users\Ернар\source\repos\TextRedactor\TextRedactor\obj\Debug\MainWindow.g.cs
+C:\Users\Ернар\source\repos\TextRedactor\TextRedactor\obj\Debug\App.g.cs
+C:\Users\Ернар\source\repos\TextRedactor\TextRedactor\obj\Debug\TextRedactor_MarkupCompile.cache
+C:\Users\Ернар\source\repos\TextRedactor\TextRedactor\obj\Debug\TextRedactor_MarkupCompile.lref
+C:\Users\Ернар\source\repos\TextRedactor\TextRedactor\obj\Debug\MainWindow.baml
+C:\Users\Ернар\source\repos\TextRedactor\TextRedactor\obj\Debug\TextRedactor.g.resources
+C:\Users\Ернар\source\repos\TextRedactor\TextRedactor\obj\Debug\TextRedactor.Properties.Resources.resources
+C:\Users\Ернар\source\repos\TextRedactor\TextRedactor\obj\Debug\TextRedactor.csproj.GenerateResource.Cache
+C:\Users\Ернар\source\repos\TextRedactor\TextRedactor\obj\Debug\TextRedactor.csproj.CoreCompileInputs.cache
+C:\Users\Ернар\source\repos\TextRedactor\TextRedactor\obj\Debug\TextRedactor.exe
+C:\Users\Ернар\source\repos\TextRedactor\TextRedactor\obj\Debug\TextRedactor.pdb
